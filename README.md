@@ -1,7 +1,7 @@
 - 👋 Hello everyone, I’m @LapigazaMorat
 - 👀 I’m interested in IoT and Embedded System.
 - 🌱 I’m currently learning Embedded
-- 💞️ I’m looking to collaborate on Java project or maybe C# project.
+- 💞️ I’m looking to collaborate on Java projects or maybe C# projects, Game Projects.
 - 📫 How to reach me kaspurimocoloco@gmail.com
 
 <!---
